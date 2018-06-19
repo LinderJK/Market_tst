@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="Market_tst:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/Market_tst_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="Market_tst/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="Market_tst" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
